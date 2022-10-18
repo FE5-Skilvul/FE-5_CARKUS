@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <title>Detail Kampus</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+  <script src="https://kit.fontawesome.com/34159d944b.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid mx-5 px-5">
+          <a class="navbar-brand" href="#">CARKUS</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarScroll">
+            <ul class="navbar-nav mx-auto mt-2 navbar-nav-scroll" style="--bs-scroll-height: 100px;">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#">Beranda</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Fitur</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Bantuan</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link">Tentang</a>
+              </li>
+            </ul>
+            <div class="profil dropdown d-flex">
+              <i class="fa-solid fa-circle-user fa-2x"></i>
+              <a class="nav-link dropdown-toggle my-auto ms-3" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Profil
+              </a>
+              <ul class="dropdown-menu dropdown-menu-dark">
+                <li><a><class="dropdown-item">Profil</a></li>
+                <li><a><class="dropdown-item">Setting</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a><class="dropdown-item">Sign Out</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+    </nav>
+
+    <section id="content">
+        <div class="container mt-5">
+            <div class="row g-4">
+                <div class="col-lg-4 border border-1 p-3">
+                  <div class="detail text-center">
+                        <img src="./assets/logo_ugm.png" style="height:200px ;">
+                        <p class="h4 mt-3">Universitas Gadjah Mada</p>
+                        <p>1888 Pengikut</p>
+                        <p class="text-muted my-3">UGM memiliki jati diri sebagai universitas nasional, universitas perjuangan, universitas pancasila, universitas kerakyatan, dan universitas pusat kebudayaan.</p>
+                        <a class="btn btn-primary col-4" role="button"><i class="fa-solid fa-plus"></i> ikuti</a>
+                        <p class="h5 mt-4">Sosial Media</p>
+                        <a href="https://www.ugm.ac.id/"><i class="fa-solid fa-earth-americas fa-2xl m-3"></i></a>
+                        <a href="https://instagram.com/ugm.yogyakarta"><i class="fa-brands fa-instagram fa-2xl m-3"></i></a>
+                    </div>
+                </div>
+                <div class="col-lg-8" id="main">
+                  <div class="row border border-1">
+                    <div class="col p-3">
+                        <ul class="nav nav-tabs justify-content-center" id="myTab" role="tablist">
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link active" id="profile-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button" role="tab" aria-controls="profile-tab-pane" aria-selected="false"><i class="fa-solid fa-building-user fa-xl me-2"></i>Profile</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="fakultas-tab" data-bs-toggle="tab" data-bs-target="#fakultas-tab-pane" type="button" role="tab" aria-controls="fakultas-tab-pane" aria-selected="true"><i class="fa-solid fa-graduation-cap fa-xl me-2"></i>Fakultas</button>
+                            </li>
+                            <li class="nav-item" role="presentation">
+                                <button class="nav-link" id="forum-tab" data-bs-toggle="tab" data-bs-target="#forum-tab-pane" type="button" role="tab" aria-controls="forum-tab-pane" aria-selected="false"><i class="fa-solid fa-comments fa-xl me-2"></i>Diskusi</button>
+                            </li>
+                        </ul>
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="profile-tab-pane" role="tabpanel" aria-labelledby="profile-tab" tabindex="0">
+                                <div class="row m-2">
+                                    <div class="col-12">
+                                        <div class="short-detail border p-3 mb-3">
+                                            <p class="h3">Universitas Gadjah Mada</p>
+                                            <p class="text-muted">Daerah Istimewa Yogyakarta, Indonesia</p>
+                                            <div class="info d-flex justify-content-evenly">
+                                                <p id="akreditas" class="text-muted">Akreditas: <span class="text-black">A</span> </p>
+                                                <p id="akreditas" class="text-muted">Tipe: <span class="text-black">PTN</span> </p>
+                                            </div>
+                                        </div>
+                                        <div class="content p-3 border">
+                                            <p class="h2">Informasi Umum</p>
+                                            <p id="detail" class="lh-2">
+                                            Universitas Gadjah Mada saat ini menjadi salah satu perguruan tinggi terbaik dan terfavorit di Indonesia. UGM telah berhasil meraih banyak penghargaan. Beberapa di antaranya, yaitu ranking 250 tingkat dunia versi THES (Timer Higher Education-Qs World University) pada tahun 2009; peringkat 1 di Indonesia versi AIPT BAN-PT pada tahun 2014; peringkat 1 di Indonesia, 5 di Asia Tenggara, 414 dunia versi Webometrics pada 2014; serta berbagai penghargaan lainnya. Selain itu, UGM juga terus menjalin kerja sama dengan berbagai lembaga, baik yang berasal dari dalam maupun luar negeri, seperti Samator Group, PT Semen Indonesia, Grab Indonesia, Universitas Gunadarma, Sekolah Tinggi Intelijen Negara, Kobe University, Chulalongkorn University, Nara Women’s University, Singapore University of Social Sciences, Kyung Hee University, dan Toyo University.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="fakultas-tab-pane" role="tabpanel" aria-labelledby="fakultas-tab" tabindex="0">
+                                <div class="row m-2">
+                                    <div class="col-lg-6">
+                                        <div class="short-detail border p-3 mb-3">
+                                            <p class="h3">Fakultas Ilmu Budaya</p>
+                                            <div class="info d-flex justify-content-start">
+                                                <p id="akreditas" class="text-muted me-3">Akreditas: <span class="text-black">A</span> </p>
+                                                <p id="akreditas" class="text-muted">Program Studi: <span class="text-black">33 Prodi</span> </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="short-detail border p-3 mb-3">
+                                            <p class="h3">Fakultas Peternakan</p>
+                                            <div class="info d-flex justify-content-start">
+                                                <p id="akreditas" class="text-muted me-3">Akreditas: <span class="text-black">A</span> </p>
+                                                <p id="akreditas" class="text-muted">Program Studi: <span class="text-black">33 Prodi</span> </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="short-detail border p-3 mb-3">
+                                            <p class="h3">Fakultas Farmasi</p>
+                                            <div class="info d-flex justify-content-start">
+                                                <p id="akreditas" class="text-muted me-3">Akreditas: <span class="text-black">A</span> </p>
+                                                <p id="akreditas" class="text-muted">Program Studi: <span class="text-black">33 Prodi</span> </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="short-detail border p-3 mb-3">
+                                            <p class="h3">Fakultas Psikologi</p>
+                                            <div class="info d-flex justify-content-start">
+                                                <p id="akreditas" class="text-muted me-3">Akreditas: <span class="text-black">A</span> </p>
+                                                <p id="akreditas" class="text-muted">Program Studi: <span class="text-black">33 Prodi</span> </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="forum-tab-pane" role="tabpanel" aria-labelledby="forum-tab" tabindex="0">
+                                ini bagian forum
+                            </div>
+                        </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.min.js" integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz" crossorigin="anonymous"></script>
+</body>
+
+</html>
