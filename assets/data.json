@@ -1,0 +1,142 @@
+[
+    {
+      "namaKampus": "Universitas Gadjah Mada",
+      "lokasi": "Daerah Istimewa Yogyakarta, Indonesia",
+      "informasi": "Universitas Gadjah Mada saat ini menjadi salah satu perguruan tinggi terbaik dan terfavorit di Indonesia. UGM telah berhasil meraih banyak penghargaan. Beberapa di antaranya, yaitu ranking 250 tingkat dunia versi THES (Timer Higher Education-Qs World University) pada tahun 2009; peringkat 1 di Indonesia versi AIPT BAN-PT pada tahun 2014; peringkat 1 di Indonesia, 5 di Asia Tenggara, 414 dunia versi Webometrics pada 2014; serta berbagai penghargaan lainnya. Selain itu, UGM juga terus menjalin kerja sama dengan berbagai lembaga, baik yang berasal dari dalam maupun luar negeri, seperti Samator Group, PT Semen Indonesia, Grab Indonesia, Universitas Gunadarma, Sekolah Tinggi Intelijen Negara, Kobe University, Chulalongkorn University, Nara Women’s University, Singapore University of Social Sciences, Kyung Hee University, dan Toyo University.",
+      "sosialMedia": {
+        "instagram": "https://instagram.com/ugm.yogyakarta",
+        "situs": "https://www.ugm.ac.id/"
+      },
+      "fakultas": ["Fakultas Ilmu Budaya", "Fakultas Peternakan", "Fakultas Teknologi Pertanian", "Fakultas Kedokteran Gigi"],
+      "akreditasi": "A",
+      "status": "PTN",
+      "image": "https://thumbor.prod.vidiocdn.com/BKQC3z41GvX9IyWBkzqHad98HQM=/filters:quality(70)/vidio-web-prod-channel/uploads/channel/image/649434/ugm-universitas-gadjah-mada-1f4d36.jpg",
+      "id": "1"
+    },
+    {
+      "namaKampus": "Universitas Diponegoro",
+      "lokasi": "Semarang, Indonesia",
+      "informasi": "Universitas Diponegoro disingkat sebagai Undip adalah sebuah perguruan tinggi negeri di Indonesia yang berlokasi di Semarang, Jawa Tengah, Indonesia. Saat ini Undip telah memiliki 11 Fakultas dan 2 Sekolah. Kampus utama Undip terletak di daerah Tembalang, dan kampus utama lainnya terletak di daerah Pleburan.",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/undip.official/",
+        "situs": "https://www.undip.ac.id/"
+      },
+      "fakultas": ["Fakultas Teknik", "Fakultas Ilmu Sosial dan Ilmu Politik", "Fakultas Kedokteran"],
+      "akreditasi": "A",
+      "status": "PTN",
+      "image": "https://mtglobalindo.co.id/wp-content/uploads/2018/04/Logo-undip-Universitas-Diponegoro.png",
+      "id": "2"
+    },
+    {
+      "namaKampus": "Universitas Indonesia",
+      "lokasi": "Depok, Indonesia",
+      "informasi": "Universitas Indonesia disingkat sebagai UI, adalah sebuah perguruan tinggi di Indonesia. Kampus utamanya terletak di bagian Utara dari Depok, Jawa Barat tepat di perbatasan antara Depok dengan wilayah Jakarta Selatan, sementara kampus utama lainnya terdapat di Salemba, Jakarta Pusat. ",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/univ_indonesia/",
+        "situs": "https://www.ui.ac.id/"
+      },
+      "fakultas": ["Fakultas Ekonomi dan Bisnis", "Fakultas Ilmu Sosial dan Ilmu Politik", "Fakultas Ilmu Pengetahuan Budaya", "Fakultas Matematika dan IPA"],
+      "akreditasi": "A",
+      "status": "PTN",
+      "image": "https://upload.wikimedia.org/wikimedia/id/c/c5/UI.png",
+      "id": "3"
+    },
+    {
+      "namaKampus": "Universitas Bina Nusantara",
+      "lokasi": "Jakarta Barat, Indonesia",
+      "informasi": "Universitas Bina Nusantara adalah salah satu universitas swasta Indonesia. Universitas ini bernaung di bawah lembaga pendidikan Bina Nusantara.",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/binusuniversityofficial/?hl=id",
+        "situs": "http://binus.ac.id/"
+      },
+      "fakultas": ["Fakultas Ekonomika dan Komunikasi", "Fakultas Teknik", "Fakultas Teknik Informatika", "Fakultas Desain", "Fakultas Sistem Informasi"],
+      "akreditasi": "A",
+      "status": "PTS",
+      "image": "data:image/png;base64,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",
+      "id": "4"
+    },
+    {
+      "namaKampus": "Institut Teknologi Bandung",
+      "lokasi": "Bandung, Indonesia",
+      "informasi": "Institut Teknologi Bandung adalah sebuah perguruan tinggi negeri yang berkedudukan di Kota Bandung. Nama ITB diresmikan pada tanggal 2 Maret 1959. Sejak tanggal 14 Oktober 2013 ITB menjadi Perguruan Tinggi Negeri Badan Hukum yang memiliki otonomi pengelolaan dalam akademik dan nonakademik.",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/itb1920/",
+        "situs": "https://www.itb.ac.id/"
+      },
+      "fakultas": ["Fakultas Ilmu dan Teknologi Kebumian", "Fakultas Matematika dan Ilmu Pengetahuan Alam", "Fakultas Seni Rupa dan Desain", "Fakultas Teknologi Industri"],
+      "akreditasi": "A",
+      "status": "PTN",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2019/08/04/7e2ff8b6-51f1-42e5-81f3-1e3f5354a311_11.jpeg?w=1200",
+      "id": "5"
+    },
+    {
+      "namaKampus": "Universitas Negeri Semarang",
+      "lokasi": "Semarang, Indonesia",
+      "informasi": "Universitas Negeri Semarang adalah salah satu Perguruan Tinggi Negeri di Indonesia yang kini dipimpin Rektor Prof. Dr. Fathur Rokhman, M.Hum. UNNES merupakan salah satu perguruan tinggi eks-IKIP yang statusnya meningkat menjadi Universitas.",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/unnes.story",
+        "situs": "https://unnes.ac.id/"
+      },
+      "fakultas": ["Fakultas Ilmu Pendidikan", "Fakultas Bahasa dan Seni", "Fakultas Ilmu Sosial", "Fakultas Matematika dan Ilmu Pengetahuan Alam", "Fakultas Teknik"],
+      "akreditasi": "A",
+      "status": "PTN",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEjRfkRj6WVaHsjEeZlxgrxTqFnxR0aIVLK5yL-wqzAoi2_-NVUl_8E4MoMd8uSJ5tDwgrjFvXwspsOHHfOZFm_sLPEjO2yVFKgLScHayVebBulKDORMqMqXzRqnPHYItrWrTpljzYVlgQOc_A3mwpKdnpVylrCpD29o9TvO5GxBIoJSAO6e4Z5dMv_EJQ=w1600",
+      "id": "6"
+    },
+    {
+      "namaKampus": "Universitas Pelita Harapan",
+      "lokasi": "Tangerang, Indonesia",
+      "informasi": "Universitas Pelita Harapan adalah sebuah perguruan tinggi swasta Kristen yang berlokasi di Tangerang dengan lokasi seperti, Program Sarjana S-1 di Lippo Village, Kelapa Dua, Kelapa Dua, Tangerang, Banten, Program Master Universitas Pelita Harapan terletak di Karet Semanggi, Setiabudi, Jakarta Selatan.",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/uphimpactslives/",
+        "situs": "https://www.uph.edu/id/study-at-uph/"
+      },
+      "fakultas": ["Fakultas Ekonomi & Bisnis ", "Fakultas Sains & Teknologi", "Fakultas Desain / School of Design", "Fakultas Pariwisata"],
+      "akreditasi": "A",
+      "status": "PTS",
+      "image": "https://rekreartive.com/wp-content/uploads/2018/10/Logo-UPH-Universitas-Pelita-Harapan-Original-PNG.png",
+      "id": "7"
+    },
+    {
+      "namaKampus": "Universitas Negeri Yogyakarta",
+      "lokasi": "Daerah Istimewa Yogyakarta, Indonesia",
+      "informasi": "Universitas Negeri Yogyakarta, merupakan salah satu perguruan tinggi negeri yang berdiri di Yogyakarta, Indonesia yang beralamat di Caturtunggal, Kecamatan Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta. Sebelumnya, Universitas Negeri Yogyakarta bernama Institut Keguruan dan Ilmu Pendidikan Yogyakarta.",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/unyofficial/",
+        "situs": "https://www.uny.ac.id/"
+      },
+      "fakultas": ["Fakultas Ilmu Pendidikan", "Fakultas Matematika dan Ilmu Pengetahuan Alam", "Fakultas Bahasa dan Seni", "Fakultas Ilmu Sosial"],
+      "akreditasi": "A",
+      "status": "PTN",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Logo-UNY-Corel-terbaru.png",
+      "id": "8"
+    },
+    {
+      "namaKampus": "Universitas Sebelas Maret",
+      "lokasi": "Surakarta, Indonesia",
+      "informasi": "Universitas Sebelas Maret adalah sebuah perguruan tinggi negeri di Indonesia yang berada di Kentingan, Jebres, Kota Surakarta. Universitas Sebelas Maret menyediakan berbagai program pendidikan mulai dari jenjang vokasi, sarjana, magister, dan doktoral.",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/uns.official/",
+        "situs": "https://uns.ac.id/"
+      },
+      "fakultas": ["Fakultas Hukum", "Fakultas Pertanian", "Fakultas Teknik", "Fakultas Ilmu Budaya", "Fakultas Kedokteran", "Fakultas Ekonomi dan Bisnis", "Fakultas Keguruan dan Ilmu Pendidikan", "Fakultas Seni Rupa dan Desain"],
+      "akreditasi": "A",
+      "status": "PTN",
+      "image": "https://i0.wp.com/uns.ac.id/id/wp-content/uploads/logo-uns-biru.png?fit=528%2C526&ssl=1",
+      "id": "9"
+    },
+    {
+      "namaKampus": "Universitas Brawijaya",
+      "lokasi": "Malang, Indonesia",
+      "informasi": "Universitas Brawijaya adalah perguruan tinggi di Indonesia yang berdiri pada tahun 1963 di Kota Malang, Jawa Timur melalui Ketetapan Menteri Pendidikan dan Ilmu Pengetahuan no.1 tanggal 5 Januari 1963. Tanggal tersebut kemudian ditetapkan sebagai Dies Natalis UB.",
+      "sosialMedia": {
+        "instagram": "https://www.instagram.com/univ.brawijaya/?hl=id",
+        "situs": "https://ub.ac.id/id/"
+      },
+      "fakultas": ["Fakultas Hukum", "Fakultas Ekonomi dan Bisnis", "Fakultas Ilmu Administrasi", "Fakultas Pertanian", "Fakultas Peternakan", "Fakultas Teknik", "Fakultas Teknik", "Fakultas Kedokteran", "Fakultas Perikanan dan Ilmu Kelautan", "Fakultas Matematika dan Ilmu Pengetahuan Alam"],
+      "akreditasi": "A",
+      "status": "PTN",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Logo_Universitas_Brawijaya.svg/477px-Logo_Universitas_Brawijaya.svg.png",
+      "id": "10"
+    }
+  ]
