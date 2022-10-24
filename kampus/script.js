@@ -85,7 +85,7 @@ document.getElementById('konten').innerHTML =
                                 </div>
                                 <div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-light p-3 rounded-2" tabindex="0">
                                     <div id="status">
-                                    ${dataThread.map((element)=>`
+                                    ${dataThread.reverse().map((element)=>`
                                         <div class="row border bg-white mb-2">
                                             <div class="col">
                                                 <div class="row my-2">
