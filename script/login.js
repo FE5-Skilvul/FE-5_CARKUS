@@ -21,6 +21,6 @@ form.addEventListener("submit", async (event) => {
   if (!user || user.password != password) {
     alert("password atau username salah");
   } else {
-    alert("yeay");
+    window.location.replace(`list.html`);
   }
 });
